@@ -1,0 +1,19 @@
+PROPS
+name
+value
+
+HOURWISECALLS
+calltype (incoming/outcoming)
+hourofday
+count
+
+DAYWISECALLS
+calltype (incoming/outcoming)
+dayofweek
+count
+
+MONTHWISECALLS
+calltype (incoming/outcoming)
+month
+count
+

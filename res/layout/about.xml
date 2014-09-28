@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:layout_weight="1">
+	<RelativeLayout 
+		android:layout_width="fill_parent" 
+		android:layout_height="fill_parent">
+		<TextView android:id="@+id/appname" android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:gravity="center_horizontal" 
+			android:layout_marginTop="20dip"
+			android:drawableBottom="@drawable/icon"
+			android:text="@string/about_apptitle"/>
+		<TextView android:id="@+id/version" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:gravity="center_horizontal"
+			android:layout_below="@id/appname"
+			android:text="@string/about_version"/>
+		<TextView android:id="@+id/webpage" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:gravity="center_horizontal"
+			android:layout_marginBottom="30dip"
+			android:autoLink="web"
+			android:layout_below="@id/version"
+			android:text="@string/about_webpage"/>
+		<TextView android:id="@+id/info" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/webpage"
+			android:text="@string/about_info"/>
+		<TextView android:id="@+id/disclaimer" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_below="@id/info"
+			android:text="@string/about_disclaimer"/>
+		<TextView android:id="@+id/contact" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:autoLink="web|email"
+			android:layout_below="@id/disclaimer"
+			android:text="@string/about_contact"/>
+		
+	</RelativeLayout>
+</ScrollView>

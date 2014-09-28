@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="about_apptitle"><b> CallTrendz </b> </string>
+    <string name="about_version"> v 1.0  </string>
+    <string name="about_webpage"><i> www.gopicreations.com </i> </string>
+    <string name="about_info"> 
+		<br></br>
+		<b>What is CallTrendz</b> 
+		<br></br>
+Ever wondered what is the day of week when you use your phone most? Ever wondered
+
+		<p></p>
+what hour of day you receive maximum number of calls? Interesting… huuuf.. but who
+will tell you all this ?
+Calltrendz! Calltrendz helps you to understand your phone usage patterns. Calltrendz
+observes all your incoming and outgoing calls and presents you with very meaningful
+and simple graphs showing your phone usage. Looking at the graph you can immediately
+know the things such as what is the hour of day when you have received maximum number
+of calls
+
+Well… sounds great.. but whats the use of this information ?
+
+1. Tune your mobile subscription plans and save $$
+2. Predict if you are likely to get many calls in certain time period and may be put your
+phone in ‘flight mode’ if you dont want to get disturbed in that timeslot.	
+	</string>
+    <string name="about_disclaimer"> Disclaimer </string>
+    <string name="about_contact"> Any issues/queries/suggestions please mail us at gopi@gopicreations.com </string>
+	
+</resources>

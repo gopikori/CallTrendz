@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CallTrendzViewer!</string>
+    <string name="app_name">CallTrendz</string>
+
+    <string name="major_tab_title_incoming">Incoming</string>
+    <string name="major_tab_title_outgoing">Outgoing</string>
+    <string name="major_tab_title_about">About</string>
+
+    <string name="minor_tab_title_hourly">Hourly</string>
+    <string name="minor_tab_title_daily">Daily</string>
+    <string name="minor_tab_title_monthly">Monthly</string>
+	
+    <string name="incoming_graph_legend">Incoming calls</string>
+    <string name="outgoing_graph_legend">Outgoing calls</string>
+	
+    <string name="hourly_graph_title">Hourwise Calltrendz</string>
+    <string name="daily_graph_title">Daywise Calltrendz</string>
+    <string name="monthly_graph_title">Monthwise Calltrendz</string>
+	
+    <string name="hourly_x_title">Hour of day</string>
+    <string name="daily_x_title">Day of week</string>
+    <string name="monthly_x_title">Month of year</string>
+	
+    <string name="hourly_y_title">Call Count</string>
+    <string name="daily_y_title">Call Count</string>
+    <string name="monthly_y_title">Call Count</string>
+	
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+	
+    <string name="january">Jan</string>
+    <string name="february">Feb</string>
+    <string name="march">Mar</string>
+    <string name="april">Apr</string>
+    <string name="may">May</string>
+    <string name="june">Jun</string>
+    <string name="july">Jul</string>
+    <string name="august">Aug</string>
+    <string name="september">Sep</string>
+    <string name="october">Oct</string>
+    <string name="november">Nov</string>
+    <string name="december">Dec</string>
+
+</resources>
