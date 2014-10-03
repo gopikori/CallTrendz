@@ -3,12 +3,14 @@ CallTrendz
 
 My first android app, written when android 2.3 was released. Helps track the trends of incoming/outgoing calls w.r.t time
 
-Refer screenshots in the screenshots folder for quick view of the app screens.
+Screenshots 
+
+![alt tag](screenshots/calltrendz1.png) ![alt tag](screenshots/calltrendz2.png)
 
 App Description -
 
 Ever wondered what is the day of week when you use your phone most? Ever wondered
-what hour of day you receive maximum number of calls? InterestingŒÌŒı huuuf.. but who
+what hour of day you receive maximum number of calls? Interesting√é√≠√é√µ huuuf.. but who
 will tell you all this ?
 Calltrendz! Calltrendz helps you to understand your phone usage patterns. Calltrendz
 observes all your incoming and outgoing calls and presents you with very meaningful
